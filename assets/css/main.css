@@ -3864,7 +3864,7 @@ body.is-preload #header.alt .logo {
 }
 
 #java {
-  padding-bottom: 10px;
+  width: 100px;
 }
 
 .languages i {
@@ -3895,7 +3895,7 @@ body.is-preload #header.alt .logo {
   width: 100px;
 }
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1280px) {
   .languages {
     display: flex;
     flex-wrap: wrap;
